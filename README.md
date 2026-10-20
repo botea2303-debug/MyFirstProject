@@ -10,7 +10,7 @@ Section 5 - building on
 
 
 
-My favourite colour is 
+My favourite colour is blue
 
 =======
 
